@@ -1,0 +1,17 @@
+{
+  "name": "pvtl/pvtl-pdf-optimisation",
+  "description": "A WordPress plugin that optimises uploaded PDFs with Ghostscript and optional qpdf linearization, including batch compression tools for the media library.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/pvtl/pvtl-pdf-optimisation",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Pivotal Agency",
+      "homepage": "https://www.pivotalagency.com.au/"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=8.3"
+  }
+}
